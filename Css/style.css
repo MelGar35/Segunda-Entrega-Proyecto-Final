@@ -1,0 +1,45 @@
+body{
+  background-color: rgb(229, 246, 247);
+  font-family: 'Times New Roman', Times, serif;
+}
+
+ul li a:hover{
+    background-color: rgb(221, 233, 233);
+    border-radius: 7px;
+}
+
+.colorHeader{
+  background-image: linear-gradient(rgb(124, 171, 204), rgb(196, 224, 247));
+}
+
+.colorFooter{
+  background-image: linear-gradient(rgb(124, 171, 204), rgb(196, 224, 247));
+}
+
+.colorFondo3{
+  background-color: rgb(230, 206, 109);
+}
+
+.colorFondo4{
+  background-color: rgb(253, 250, 205);
+}
+
+.carousel-inner img{
+  width: 60%;
+  padding: 10px;
+  margin: auto; 
+}
+
+.carousel-inner{
+height: 500px;
+}
+
+
+.iconos-sociales img{ 
+transition:all 0.5s ease-out; 
+}
+.iconos-sociales img:hover{ 
+box-shadow: 0px 1px 1px 1px rgba(0, 0, 0, 0.1); 
+transform:translate(0px, -5px); 
+}
+
